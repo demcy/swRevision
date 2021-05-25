@@ -1,0 +1,14 @@
+S:\Programs\Macros\SW TreeManager\SW TreeManager\SW\bin\Debug\SW.dll
+S:\Programs\Macros\SW TreeManager\SW TreeManager\SW\bin\Debug\SW.pdb
+S:\Programs\Macros\SW TreeManager\SW TreeManager\SW\bin\Debug\Interop.SldWorks.dll
+S:\Programs\Macros\SW TreeManager\SW TreeManager\SW\obj\Debug\SW.csprojAssemblyReference.cache
+S:\Programs\Macros\SW TreeManager\SW TreeManager\SW\obj\Debug\SW.csproj.CopyComplete
+S:\Programs\Macros\SW TreeManager\SW TreeManager\SW\obj\Debug\SW.dll
+S:\Programs\Macros\SW TreeManager\SW TreeManager\SW\obj\Debug\SW.pdb
+S:\Programs\Macros\SW Revision\SW\bin\Debug\SW.dll
+S:\Programs\Macros\SW Revision\SW\bin\Debug\SW.pdb
+S:\Programs\Macros\SW Revision\SW\bin\Debug\Interop.SldWorks.dll
+S:\Programs\Macros\SW Revision\SW\obj\Debug\SW.csprojAssemblyReference.cache
+S:\Programs\Macros\SW Revision\SW\obj\Debug\SW.csproj.CopyComplete
+S:\Programs\Macros\SW Revision\SW\obj\Debug\SW.dll
+S:\Programs\Macros\SW Revision\SW\obj\Debug\SW.pdb

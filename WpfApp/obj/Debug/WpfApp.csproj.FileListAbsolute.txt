@@ -1,0 +1,38 @@
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\bin\Debug\WpfApp.exe.config
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\bin\Debug\WpfApp.exe
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\bin\Debug\WpfApp.pdb
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\obj\Debug\MainWindow.g.cs
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\obj\Debug\App.g.cs
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\obj\Debug\MainWindow.baml
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\obj\Debug\WpfApp.g.resources
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\obj\Debug\WpfApp.exe
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\obj\Debug\WpfApp.pdb
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\bin\Debug\DrawRevision.dll
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\bin\Debug\SW.dll
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\bin\Debug\Interop.SldWorks.dll
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\bin\Debug\DrawRevision.pdb
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\bin\Debug\SW.pdb
+S:\Programs\Macros\SW TreeManager\SW TreeManager\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+S:\Programs\Macros\SW Revision\WpfApp\bin\Debug\WpfApp.exe.config
+S:\Programs\Macros\SW Revision\WpfApp\bin\Debug\WpfApp.exe
+S:\Programs\Macros\SW Revision\WpfApp\bin\Debug\WpfApp.pdb
+S:\Programs\Macros\SW Revision\WpfApp\bin\Debug\SW.dll
+S:\Programs\Macros\SW Revision\WpfApp\bin\Debug\Interop.SldWorks.dll
+S:\Programs\Macros\SW Revision\WpfApp\bin\Debug\SW.pdb
+S:\Programs\Macros\SW Revision\WpfApp\obj\Debug\WpfApp.csprojAssemblyReference.cache
+S:\Programs\Macros\SW Revision\WpfApp\obj\Debug\MainWindow.g.cs
+S:\Programs\Macros\SW Revision\WpfApp\obj\Debug\App.g.cs
+S:\Programs\Macros\SW Revision\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+S:\Programs\Macros\SW Revision\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+S:\Programs\Macros\SW Revision\WpfApp\obj\Debug\MainWindow.baml
+S:\Programs\Macros\SW Revision\WpfApp\obj\Debug\WpfApp.g.resources
+S:\Programs\Macros\SW Revision\WpfApp\obj\Debug\WpfApp.Properties.Resources.resources
+S:\Programs\Macros\SW Revision\WpfApp\obj\Debug\WpfApp.csproj.GenerateResource.cache
+S:\Programs\Macros\SW Revision\WpfApp\obj\Debug\WpfApp.csproj.CopyComplete
+S:\Programs\Macros\SW Revision\WpfApp\obj\Debug\WpfApp.exe
+S:\Programs\Macros\SW Revision\WpfApp\obj\Debug\WpfApp.pdb
